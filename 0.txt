@@ -1,3 +1,4 @@
 Git is a version control system distributed under the GPL.
 I am learning how to use it.
 Git has a mutable index called stage.
+Git tracks changes.
